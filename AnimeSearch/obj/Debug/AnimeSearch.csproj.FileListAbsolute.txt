@@ -1,0 +1,12 @@
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.exe.config
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.exe
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.pdb
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\Newtonsoft.Json.dll
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\Newtonsoft.Json.xml
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csprojResolveAssemblyReference.cache
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Properties.Resources.resources
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csproj.GenerateResource.Cache
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.exe
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.pdb
+E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Form1.resources
+E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\MyAnimeListSharp.dll
