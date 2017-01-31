@@ -10,3 +10,15 @@ E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.exe
 E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.pdb
 E:\VS projects\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Form1.resources
 E:\VS projects\AnimeSearch\AnimeSearch\bin\Debug\MyAnimeListSharp.dll
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.exe.config
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.exe
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.pdb
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.exe
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.pdb
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\MyAnimeListSharp.dll
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\Newtonsoft.Json.dll
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\bin\Debug\Newtonsoft.Json.xml
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csprojResolveAssemblyReference.cache
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Form1.resources
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Properties.Resources.resources
+C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csproj.GenerateResource.Cache
