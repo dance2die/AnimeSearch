@@ -22,3 +22,6 @@ C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csp
 C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Form1.resources
 C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.Properties.Resources.resources
 C:\misc\Sources\Repos\kirillVv\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.csproj.GenerateResource.Cache
+C:\misc\sources\Repos\AnimeSearch\AnimeSearch\bin\Debug\AnimeSearch.exe.config
+C:\misc\sources\Repos\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.exe
+C:\misc\sources\Repos\AnimeSearch\AnimeSearch\obj\Debug\AnimeSearch.pdb
