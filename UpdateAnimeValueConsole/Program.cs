@@ -19,7 +19,7 @@ namespace UpdateAnimeValueConsole
         {
             var animeId = 32615;    // Youjo Senki (TV)
             short epsWatched = 6;
-            var persScore = 0;
+            var persScore = 10;
 
             var methods = new AnimeListMethods(credential);
 
@@ -67,11 +67,7 @@ namespace UpdateAnimeValueConsole
             }
 
             var response = methods.UpdateAnime(animeId, animeValues);
-            var deserializer = new SearchResponseDeserializer<AnimeSearchResponse>();
-            AnimeSearchResponse animeSearchResponse = deserializer.Deserialize(response);
-
-            var firstEntry = animeSearchResponse.Entries[0];
-            Console.WriteLine("Updated to Score: {0}, eps watched: {1}", firstEntry.Score, firstEntry.Episodes);
+            Console.WriteLine(response);
         }
     }
 }

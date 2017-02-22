@@ -1,1 +1,9 @@
 C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\UpdateAnimeValueConsole.exe.config
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\UpdateAnimeValueConsole.exe
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\UpdateAnimeValueConsole.pdb
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\MyAnimeListSharp.dll
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\Newtonsoft.Json.dll
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\bin\Debug\Newtonsoft.Json.xml
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\obj\Debug\UpdateAnimeValueConsole.csprojResolveAssemblyReference.cache
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\obj\Debug\UpdateAnimeValueConsole.exe
+C:\misc\sources\Repos\AnimeSearch\UpdateAnimeValueConsole\obj\Debug\UpdateAnimeValueConsole.pdb
